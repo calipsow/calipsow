@@ -4,4 +4,8 @@
 <h1 align="center"> Nice Greetings from Team Callipson! <img src="./wave.gif" height="40px"> </h1> 
 <p align="center" ><strong>Full-Stack Developing 💻 on web ✨ and app 📲. We develop solutions using express, databases and much more! 🖥️</strong></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calipsow&layout=compact)
+<a align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calipsow&layout=compact)
+
+</a>

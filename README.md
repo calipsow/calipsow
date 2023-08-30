@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='left'>
   <img src="https://cdn.shopify.com/s/files/1/0655/5087/6900/files/My-project-1-_1_-_1.png" alt="Callipson Logo" border="0"  />
 
 

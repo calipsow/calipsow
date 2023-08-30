@@ -1,5 +1,4 @@
-<p align='left'>
-  <img src="https://cdn.shopify.com/s/files/1/0655/5087/6900/files/My-project-1-_1_-_1.png" alt="Callipson Logo" border="0"  />
+<img src="https://cdn.shopify.com/s/files/1/0655/5087/6900/files/B70C6418-4EC0-44C0-8485-F22BBEC44718.png?v=1690015274" alt="Callipson Logo" border="0"  />
 
 
 # Nice Greetings from Team Callipson! <img src="./wave.gif" height="40px">
@@ -8,5 +7,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calipsow&layout=compact)
 <br />
 <br />
-
-</p>

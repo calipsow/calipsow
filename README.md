@@ -3,7 +3,7 @@
 
 
 # Nice Greetings from Team Callipson! <img src="./Assets/wave.gif" height="40px">
-## Full Stack Developing💻 on web✨ and app📲. We develop solutions using express, Sql/noSql and much more!🖥️
+<p><strong>Full-Stack Developing 💻 on web ✨ and app 📲. We develop solutions using express, databases and much more! 🖥️</strong></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calipsow&layout=compact)
 <br />

@@ -2,10 +2,10 @@
 <h3 align="center">Nice Greetings from Team Callipson<br/><img src="./wave.gif" height="40px"> </h3> 
 <p align="center" ><strong>Full-Stack Developing 💻 on web ✨ and app 📲. We develop solutions using express, databases and much more! 🖥️</strong></p>
 <p align="center">
-<img src="" height="50"/>
-  <img src="" height="50"/>
-  <img src="" height="50"/>
-  <img src="" height="50"/>
-  <img src="" height="50"/>
-  <img src="" height="50"/>
+<img src="./vscode.svg" height="50"/>
+  <img src="./react.svg" height="50"/>
+  <img src="./nodejs.svg" height="50"/>
+  <img src="./mongodb.svg" height="50"/>
+  <img src="./javascript.svg" height="50"/>
+  <img src="./expressjs.svg" height="50"/>
 </p>

@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://cdn.shopify.com/s/files/1/0655/5087/6900/files/My-project-1-_1_-_1.png" alt="Callipson Logo" border="10"  />
+  <img src="https://cdn.shopify.com/s/files/1/0655/5087/6900/files/My-project-1-_1_-_1.png" alt="Callipson Logo" border="0"  />
 
 
 # Nice Greetings from Team Callipson! <img src="./wave.gif" height="40px">

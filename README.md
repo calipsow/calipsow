@@ -10,4 +10,4 @@
   <img src="./javascript.svg" height="50" width="80">
 </p>
 
-<p align="center" ><strong>Full-Stack Developing 💻 on web ✨ and app 📲. <br/>We develop solutions using express, databases and much more! 🖥️</strong></p>
+<p align="center" ><strong>Full-Stack Developing 💻 on web ✨ and app 📲. <br/>We develop solutions using JavaScript. 🖥️</strong></p>

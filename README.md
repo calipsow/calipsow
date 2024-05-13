@@ -7,5 +7,13 @@
 [![App Store](appstore-images.jpg)](https://apps.apple.com/de/app/zsw/id6502181270)
 
 [![Play Store](playstore-images.png)](https://play.google.com/store/apps/details?id=com.ZusammenStehenWir)
+<br><br>
+<p align="center">Youre also welcome to visit our handcrafted Online Shop and Tech Blog</p>
+<br>
+    
+
+[![Callipson](https://cdn.shopify.com/s/files/1/0655/5087/6900/files/callipson-white-bg_24987243-6d3f-45b2-af85-dbe810c769ec.png?v=1690002775)](https://callipson.com)
+
+
 
 </div>

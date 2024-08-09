@@ -3,7 +3,7 @@
 <h1>Hi 👋, we're callipson</h1>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=A,AA,AAA,B,BB,BBB,C,CC,CCC&column=-1" alt="calipsow" />
+<img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=A,AA,AAA,BB,BBB&column=-1" alt="calipsow" />
 </a>
 
 <h3>🚀 We help businesses compete on equal footing with their competitors.</h3>

@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, we're callipson</h1>
-<h3 align="center">🚀 We help businesses compete on equal footing with their competitors.</h3>
+<div align="center">
+    
+<h1>Hi 👋, we're callipson</h1>
+<h3>🚀 We help businesses compete on equal footing with their competitors.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calipsow&label=Profile%20views&color=0e75b6&style=flat" alt="calipsow" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=calipsow&label=Profile%20views&color=0e75b6&style=flat" alt="calipsow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&title=Stars,Followers,Commits" alt="calipsow" />
 </a> </p>
+
+</div>
 
 - 📱 Specialises in Cross-Platform App Development [🇩🇪 App: Protest Finder Germany](https://www.producthunt.com/products/demo-finder-germany)
 

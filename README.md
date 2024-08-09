@@ -6,7 +6,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=calipsow&label=Profile%20views&color=0e75b6&style=flat" alt="calipsow" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=A,AA,AAA,B,BB,BBB,C,CC,CCC" alt="calipsow" />
+<img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=A,AA,AAA,B,BB,BBB,C,CC,CCC&column=-1" alt="calipsow" />
 </a>
 
 </div>

@@ -5,9 +5,9 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=calipsow&label=Profile%20views&color=0e75b6&style=flat" alt="calipsow" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&title=Stars,Followers,Commits" alt="calipsow" />
-</a> </p>
+</a>
 
 </div>
 

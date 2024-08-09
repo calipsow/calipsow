@@ -2,8 +2,7 @@
     
 <h1>Hey, we're Callipson 👋</h1>
 
-
-<h3>We help businesses compete on equal footing with their competitors.</h3>
+<p>We help businesses compete on equal footing with their competitors.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=compact" alt="calipsow" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=calipsow&" alt="calipsow" />

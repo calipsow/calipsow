@@ -1,5 +1,4 @@
 <div align="center">
-
   <br />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=compact"
@@ -14,19 +13,17 @@
 </div>
 
 
-- 📱 Specialises in **App Development**
+- Specialized in **App Development**
 
-- ❓ Did you know? You get a free website for your app promotion and marketing on top ✅
+- Check out [www.callipson.com](https://www.callipson.com)
 
-- 🌐 Discover more on [our official website](https://www.callipson.com)
+- Latest [Dev Blog](https://callipson.com/blog/development)
 
-- 📝 See our latest Blogs [how to analyse app competitors.](https://callipson.com/blog/business/analysis-app-markets-for-free)
+- Contact [WhatsApp](https://wa.me/message/QZ7KU4ISEPIZO1)
 
-- 💬 Looking for a chat? [Get in touch via WhatsApp](https://wa.me/message/QZ7KU4ISEPIZO1)
+- Mail [development@callipson.com](mailto:development@callipson.com)
 
-- 📫 Or maybe for our mail: [development@callipson.com](mailto:development@callipson.com)
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dennis-wilke-646691243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [LinkedIn](https://www.linkedin.com/in/dennis-wilke-646691243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 

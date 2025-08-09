@@ -2,17 +2,17 @@
 <div align="center">
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=donut&langs_count=6&exclude_repo=tts-model-server"
-    alt="calipsow"
-  />
-  <br />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com?user=calipsow"
     alt="calipsow"
   />
   <br />
     <img
-    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues"
+    alt="calipsow"
+  />
+  <br />
+    <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=tts-model-server"
     alt="calipsow"
   />
   <br />

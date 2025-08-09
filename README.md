@@ -7,12 +7,12 @@
   />
   <br />
     <img
-    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues"
+    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues&hide_progress=true"
     alt="calipsow"
   />
   <br />
     <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=tts-model-server"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=compact&langs_count=6&hide=jupiter-notebook&hide_title=true"
     alt="calipsow"
   />
   <br />

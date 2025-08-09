@@ -12,7 +12,7 @@
   />
   <br />
     <img
-    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&hide_rank=true&rank_icon=github&number_format=short&hide=prs,issues"
+    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues,contribs"
     alt="calipsow"
   />
   <br />

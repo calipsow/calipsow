@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=donut&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=calipsow&show_icons=true&locale=en&layout=donut&langs_count=6&exclude_repo=tts-model-server"
     alt="calipsow"
   />
   <br />

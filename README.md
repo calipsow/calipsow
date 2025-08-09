@@ -6,7 +6,7 @@
   />
   <br />
     <img
-    src="https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues&hide_progress=true"
+    src="https://github-readme-stats.vercel.app/api?hide_title=true&username=calipsow&show_icons=true&rank_icon=github&number_format=short&hide=prs,issues&hide_progress=true"
     alt="calipsow"
   />
   <br />

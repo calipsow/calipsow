@@ -11,4 +11,4 @@
   />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calipsow&repo=powershell-one-o-one)(https://github.com/calipsow/powershell-one-o-one)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calipsow&repo=powershell-one-o-one)](https://github.com/calipsow/powershell-one-o-one)

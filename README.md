@@ -1,3 +1,4 @@
+[![Readme Card Stats](https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=-B,-BB,-BBB,-C,-CC,-CCC,-?&no-bg=true&no-frame=true)](https://github.com/calipsow/powershell-one-o-one)
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=-B,-BB,-BBB,-C,-CC,-CCC,-?&no-bg=true&no-frame=true"

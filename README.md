@@ -1,5 +1,8 @@
-
 <div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=calipsow&theme=onedark&rank=-B,-BB,-BBB,-C,-CC,-CCC,-?&no-bg=true&no-frame=true"
+    alt="calipsow stats"
+  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=calipsow"
     alt="calipsow"

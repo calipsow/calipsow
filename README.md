@@ -36,9 +36,9 @@
 
 ## `$ whoami`
 
-I’m a software engineer and entrepreneur based in **Germany**, who started writing code back in 2018 — building websites and silly games for fun, later for friends and family. Time passed and it turned into a career. What was born out of curiosity became a conviction: *technology should be accessible, fair, and built with craft.*
+I’m a software engineer and entrepreneur based in **Germany**, who started writing code back in 2018, building websites and silly games for fun, later for friends and family. Time passed and it turned into a career. What was born out of curiosity became a conviction: *technology should be accessible, fair, and built with craft.*
 
-That conviction led me to found **[Callipson](https://www.callipson.com)** — my software development agency that partners with startups and enterprises who deserve better than overpriced, soly vibe-coded or under-engineered solutions. We build **apps and systems** that actually work.
+That conviction led me to found **[Callipson](https://www.callipson.com)**, my software development agency that partners with startups and enterprises who deserve better than overpriced, soly vibe-coded or under-engineered solutions. We build **apps and systems** that actually work.
 
 On GitHub I ship open-source tools, AI experiments, starter kits and some just for fun projects. No hype, no shortcuts, but for the love of doing it.
 

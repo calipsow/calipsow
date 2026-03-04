@@ -22,8 +22,7 @@
 
 ### Founder & CEO · [Callipson](https://www.callipson.com) · Germany
 
-*“Unskilled engineers take simple requirements and create complex code.*
-*Skilled engineers take complex requirements and create simple code.”*
+*“The believe in a craftsmanship: Having the discipline to build **simple solutions to hard problems**.”*
 
 [![Website](https://img.shields.io/badge/callipson.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.callipson.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wilke-646691243)
@@ -38,7 +37,7 @@
 
 I’m a software engineer and entrepreneur based in **Germany**, who started writing code back in 2018, building websites and silly games for fun, later for friends and family. Time passed and it turned into a career. What was born out of curiosity became a conviction: *technology should be accessible, fair, and built with craft.*
 
-That conviction led me to found **[Callipson](https://www.callipson.com)**, my software development agency that partners with startups and enterprises who deserve better than overpriced, soly vibe-coded or under-engineered solutions. We build **apps and systems** that actually work.
+That conviction led me to found **[Callipson](https://www.callipson.com)**, the software development agency that partners with startups and enterprises who deserve better than overpriced, soly vibe-coded or under-engineered solutions. We build **apps and systems** that actually work.
 
 On GitHub I ship open-source tools, AI experiments, starter kits and some just for fun projects. No hype, no shortcuts, but for the love of doing it.
 
@@ -145,8 +144,6 @@ A server-based TTS API that generates natural speech from plain text with a sing
 > Vibe Coding isn't progress — it's technical recklessness.
    AI writes code. But it doesn't take responsibility when
    things fall apart.
-
-I believe in real craftsmanship: the discipline to write **simple solutions to hard problems**. 
 
 -----
 

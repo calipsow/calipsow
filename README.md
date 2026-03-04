@@ -141,9 +141,8 @@ A server-based TTS API that generates natural speech from plain text with a sing
 
 ## `$ cat ./philosophy.txt`
 
-> Vibe Coding isn't progress — it's technical recklessness.
-   AI writes code. But it doesn't take responsibility when
-   things fall apart.
+> Vibe Coding is not progress, but technical recklessness.
+   AI may be able to write code that “just works.” But you are responsible for your users and their safety.
 
 -----
 

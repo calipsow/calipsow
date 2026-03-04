@@ -146,7 +146,9 @@ A server-based TTS API that generates natural speech from plain text with a sing
    AI writes code. But it doesn't take responsibility when
    things fall apart.
 
-I believe in **software craftsmanship**: rigorous code style, meaningful quality gates, real test coverage, and the discipline to write **simple solutions to hard problems**. Good developers use the tools that serve their goals — not the tools that look impressive in a tweet.
+---
+
+I believe in real craftsmanship: the discipline to write **simple solutions to hard problems**. 
 
 -----
 

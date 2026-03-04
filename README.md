@@ -113,19 +113,6 @@ An extensively documented, production-grade starter template for iOS and Android
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
-
-### 🗣️ Text-to-Speech API
-
-**Self-hosted voice synthesis server**
-
-A server-based TTS API that generates natural speech from plain text with a single HTTP call. Designed for integration into any stack.
-
-`Python` `FastAPI` `TTS Models`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻 PowerShell Utility Kit
@@ -139,13 +126,13 @@ The exact PowerShell commands and aliases I rely on daily — organized, documen
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ [callipson.com](https://www.callipson.com)
+### 🗣️ Text-to-Speech API
 
-**The agency behind the code**
+**Self-hosted voice synthesis server**
 
-Custom software that moves businesses forward — web apps, mobile, enterprise, SaaS. 
+A server-based TTS API that generates natural speech from plain text with a single HTTP call. Designed for integration into any stack.
 
-`Web` `Mobile` `Enterprise` `SaaS`
+`Python` `FastAPI` `TTS Models`
 
 </td>
 </tr>

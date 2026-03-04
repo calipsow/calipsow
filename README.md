@@ -33,7 +33,7 @@
 
 -----
 
-## `$ whoami`
+### `$ whoami`
 
 I’m a software engineer and entrepreneur based in **Germany**, who started writing code back in 2018, building websites and silly games for fun, later for friends and family. Time passed and it turned into a career. What was born out of curiosity became a conviction: *technology should be accessible, fair, and built with craft.*
 
@@ -43,7 +43,7 @@ On GitHub I ship open-source tools, AI experiments, starter kits and some just f
 
 -----
 
-## `$ ls ./tech-stack`
+### `$ ls ./tech-stack`
 
 **Languages & Runtimes**
 
@@ -86,7 +86,7 @@ On GitHub I ship open-source tools, AI experiments, starter kits and some just f
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Llama 3.2 AI Server
+#### 🤖 Llama 3.2 AI Server
 
 **Real-world LLM deployment with FastAPI**
 
@@ -99,7 +99,7 @@ A production-ready AI inference server built around Meta’s Llama 3.2 3B model 
 </td>
 <td width="50%" valign="top">
 
-### 📱 React Native Starter Kit
+#### 📱 React Native Starter Kit
 
 **Cross-platform mobile, done right**
 
@@ -114,7 +114,7 @@ An extensively documented, production-grade starter template for iOS and Android
 <tr>
 <td width="50%" valign="top">
 
-### 💻 PowerShell Utility Kit
+#### 💻 PowerShell Utility Kit
 
 **My personal CLI arsenal**
 
@@ -125,7 +125,7 @@ The exact PowerShell commands and aliases I rely on daily — organized, documen
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Text-to-Speech API
+#### 🗣️ Text-to-Speech API
 
 **Self-hosted voice synthesis server**
 
@@ -139,14 +139,14 @@ A server-based TTS API that generates natural speech from plain text with a sing
 
 -----
 
-## `$ cat ./philosophy.txt`
+### `$ cat ./philosophy.txt`
 
 > Vibe Coding is not progress, but technical recklessness.
-   AI may be able to write code that “just works.” But you are responsible for your users and their safety.
+   AI may be able to write code that “just works.” But in the end you will be responsible and held accountable for your users and their safety.
 
 -----
 
-## `$ cat ./callipson/services.md`
+### `$ cat ./callipson/services.md`
 
 [**Callipson**](https://www.callipson.com). We build software that bridges the gap between what SMEs need and what they can actually afford to get built properly.
 
@@ -161,7 +161,7 @@ A server-based TTS API that generates natural speech from plain text with a sing
 
 -----
 
-## `$ cat ./stats.md`
+### `$ cat ./stats.md`
 
 <div align="center">
 
@@ -172,7 +172,7 @@ A server-based TTS API that generates natural speech from plain text with a sing
 
 -----
 
-## `$ cat ./contact.md`
+### `$ cat ./contact.md`
 
 <div align="center">
 

@@ -146,22 +146,20 @@ A server-based TTS API that generates natural speech from plain text with a sing
    AI writes code. But it doesn't take responsibility when
    things fall apart.
 
----
-
 I believe in real craftsmanship: the discipline to write **simple solutions to hard problems**. 
 
 -----
 
 ## `$ cat ./callipson/services.md`
 
-[**Callipson**](https://www.callipson.com) is my agency. We build software that bridges the gap between what SMEs need and what they can actually afford to get built properly.
+[**Callipson**](https://www.callipson.com). We build software that bridges the gap between what SMEs need and what they can actually afford to get built properly.
 
 |Service                   |Description                                                    |
 |--------------------------|---------------------------------------------------------------|
 |🌐 **Web Applications**    |Full-stack custom web apps, optimized for SEO and scale        |
 |📱 **Mobile Apps**         |Native-quality iOS & Android via React Native                  |
 |🏢 **Enterprise Solutions**|Complex integrations, legacy modernization, secure architecture|
-|⚡ **SaaS Products**       |From MVP to production — scalable, maintainable, competitive   |
+|⚡ **SaaS Products**       |From MVP to production: scalable, maintainable, competitive   |
 |🎨 **UX/UI Design**        |Design that converts, retains, and doesn’t embarrass you       |
 |🔒 **QA & Security**       |Unit · Integration · System testing + Penetration testing      |
 
@@ -171,9 +169,6 @@ I believe in real craftsmanship: the discipline to write **simple solutions to h
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calipsow&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calipsow&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=calipsow&theme=github-dark-blue&hide_border=true&background=0d1117)
 
@@ -188,7 +183,7 @@ I believe in real craftsmanship: the discipline to write **simple solutions to h
 |Channel      |Link                                                                        |
 |-------------|----------------------------------------------------------------------------|
 |🌐 Website    |[callipson.com](https://www.callipson.com)                                  |
-|💼 LinkedIn   |[dennis-wilke-646691243](https://www.linkedin.com/in/dennis-wilke-646691243)|
+|💼 LinkedIn   |[dennis-wilke](https://www.linkedin.com/in/dennis-wilke-646691243)|
 |🧵 Threads    |[@callipson.dev](https://www.threads.com/@callipson.dev)                    |
 |🛠️ Dev Contact|[development@callipson.com](mailto:development@callipson.com)               |
 
@@ -199,10 +194,10 @@ I believe in real craftsmanship: the discipline to write **simple solutions to h
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════╗
-║  Build with craft. Ship with confidence.         ║
-║  → callipson.com                                 ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  Build with craft. Ship with confidence. ║
+║  → callipson.com                         ║
+╚══════════════════════════════════════════╝
 ```
 
 *Made in Europe. Deployed worldwide.*
